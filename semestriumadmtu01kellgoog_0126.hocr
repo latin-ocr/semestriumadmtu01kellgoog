@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./semestriumadmtu01kellgoog_0126.png"; bbox 0 0 854 1319; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 113 113 648 139">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 113 113 648 139">
+     <span class='ocr_line' id='line_1_1' title="bbox 113 113 648 139; baseline 0 -7"><span class='ocrx_word' id='word_1_1' title='bbox 113 115 156 137; x_wconf 58' lang='lat' dir='ltr'>§.a</span> <span class='ocrx_word' id='word_1_2' title='bbox 165 113 196 132; x_wconf 71' lang='lat' dir='ltr'>Da</span> <span class='ocrx_word' id='word_1_3' title='bbox 201 114 225 133; x_wconf 84' lang='lat' dir='ltr'>P.</span> <span class='ocrx_word' id='word_1_4' title='bbox 231 116 250 133; x_wconf 69' lang='lat' dir='ltr'>at</span> <span class='ocrx_word' id='word_1_5' title='bbox 257 113 602 139; x_wconf 60' lang='lat' dir='ltr'>&#39;&#39;hom—Subnoiuaequaaliones.</span> <span class='ocrx_word' id='word_1_6' title='bbox 617 114 648 129; x_wconf 81' lang='lat'>¹⁰¹²</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 112 160 725 214">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 112 160 725 214">
+     <span class='ocr_line' id='line_1_2' title="bbox 112 160 725 182; baseline -0.002 -4"><span class='ocrx_word' id='word_1_7' title='bbox 112 163 149 178; x_wconf 72' lang='lat' dir='ltr'>lure</span> <span class='ocrx_word' id='word_1_8' title='bbox 167 162 242 178; x_wconf 70' lang='lat' dir='ltr'>mulctati</span> <span class='ocrx_word' id='word_1_9' title='bbox 260 166 281 178; x_wconf 73' lang='lat' dir='ltr'>ae</span> <span class='ocrx_word' id='word_1_10' title='bbox 298 161 354 182; x_wconf 69' lang='lat' dir='ltr'>capite</span> <span class='ocrx_word' id='word_1_11' title='bbox 373 160 493 182; x_wconf 76' lang='lat' dir='ltr'><strong>quodammodo</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 512 160 591 177; x_wconf 64' lang='lat' dir='ltr'>deminuti</span> <span class='ocrx_word' id='word_1_13' title='bbox 610 166 648 178; x_wconf 67' lang='lat' dir='ltr'>me</span> <span class='ocrx_word' id='word_1_14' title='bbox 665 164 725 177; x_wconf 67' lang='lat' dir='ltr'>&#39;un-ffl-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 113 190 229 214; baseline -0.009 -5"><span class='ocrx_word' id='word_1_15' title='bbox 113 190 229 214; x_wconf 60' lang='lat' dir='ltr'><strong>putaremur?</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 144 233 648 251">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 144 233 648 251">
+     <span class='ocr_line' id='line_1_4' title="bbox 144 233 648 251; baseline 0 -1"><span class='ocrx_word' id='word_1_16' title='bbox 144 234 221 251; x_wconf 73' lang='lat' dir='ltr'>Alterum</span> <span class='ocrx_word' id='word_1_17' title='bbox 240 235 267 250; x_wconf 72' lang='lat' dir='ltr'>est</span> <span class='ocrx_word' id='word_1_18' title='bbox 283 233 334 251; x_wconf 77' lang='lat' dir='ltr'>idnue</span> <span class='ocrx_word' id='word_1_19' title='bbox 351 233 480 251; x_wconf 62' lang='lat' dir='ltr'>grauissimum.</span> <span class='ocrx_word' id='word_1_20' title='bbox 501 234 520 249; x_wconf 84' lang='lat' dir='ltr'>ut</span> <span class='ocrx_word' id='word_1_21' title='bbox 538 235 648 251; x_wconf 64' lang='lat' dir='ltr'>:ommonem</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

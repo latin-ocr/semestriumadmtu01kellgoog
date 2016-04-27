@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./semestriumadmtu01kellgoog_0292.png"; bbox 0 0 854 1319; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 246 122 648 148">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 246 122 648 148">
+     <span class='ocr_line' id='line_1_1' title="bbox 246 122 648 148; baseline -0.005 -7"><span class='ocrx_word' id='word_1_1' title='bbox 246 123 266 141; x_wconf 76' lang='lat' dir='ltr'><strong><em>in</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 279 123 366 141; x_wconf 73' lang='lat' dir='ltr'><strong><em>oratione</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 377 129 414 148; x_wconf 82' lang='lat' dir='ltr'><strong><em>pro</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 429 122 523 145; x_wconf 72' lang='lat' dir='ltr'><strong><em>Quinctio.</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 617 123 648 139; x_wconf 72' lang='lat'><strong><em>2¹11</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 177 161 733 191">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 177 161 733 191">
+     <span class='ocr_line' id='line_1_2' title="bbox 177 161 733 191; baseline -0.004 -4"><span class='ocrx_word' id='word_1_6' title='bbox 177 168 264 191; x_wconf 74' lang='lat' dir='ltr'>inuenire]</span> <span class='ocrx_word' id='word_1_7' title='bbox 275 172 361 187; x_wconf 63' lang='lat' dir='ltr'><strong><em>mutuari.-</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 372 170 398 187; x_wconf 79' lang='grc' dir='ltr'><strong><em>ΡΙ.</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 408 178 428 181; x_wconf 95' lang='grc'>-</span> <span class='ocrx_word' id='word_1_10' title='bbox 439 170 483 187; x_wconf 85' lang='lat' dir='ltr'>Illud</span> <span class='ocrx_word' id='word_1_11' title='bbox 494 172 521 187; x_wconf 80' lang='lat' dir='ltr'><strong><em>est</em></strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 531 171 605 187; x_wconf 66' lang='lat' dir='ltr'><strong>ultimum</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 616 170 649 187; x_wconf 81' lang='lat' dir='ltr'><strong><em>hu·</em></strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 659 161 733 188; x_wconf 44' lang='lat'><strong><em>..53:¹12</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
